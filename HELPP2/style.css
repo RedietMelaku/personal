@@ -137,6 +137,7 @@ img{
   font-family:cursive;
  
   text-transform: uppercase;
+  margin-top: 10px;
  
 }
 .contactdiv ul{
@@ -166,6 +167,7 @@ img{
   padding: 10px;
   display: block;
   color: rgb(139, 43, 43);
+  
  
 }
 .myinputs{
